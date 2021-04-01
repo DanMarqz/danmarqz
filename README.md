@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello world! 👋
+
+##### I am a self-taught student, I found my passion in programming and since then I started to dedicate my time to it, I would like to gradually learn more, contribute more and be part of a community someday.
+
+🌱 I’m currently learning React ⚛️
+🔭 I’m currently working on migrating HTML to React.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmarqz&layout=compact)](https://github.com/danmarqz/github-readme-stats)
 
 <!--
