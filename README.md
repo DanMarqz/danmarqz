@@ -5,7 +5,7 @@
 🌱 I’m currently learning React ⚛️
 🔭 I’m currently working on migrating HTML to React.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danmarqz&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmarqz&layout=compact&theme=dracula)](https://github.com/danmarqz/github-readme-stats)
 
