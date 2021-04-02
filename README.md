@@ -1,6 +1,6 @@
 # Hello world! 👋
 
-##### I am a self-taught student, I found my passion in programming and since then I started to dedicate my time to it, I would like to gradually learn more, contribute more and be part of a community someday.
+##### I am a self-taught student, I found my passion in web-development and since then I started to dedicate my time to it, I would like to gradually learn more, contribute more and be part of a community someday.
 
 🌱 I’m currently learning React ⚛️.
 <br>
