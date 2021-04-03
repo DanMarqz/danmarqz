@@ -6,6 +6,8 @@
 <br>
 🔭 I’m currently working on migrating HTML to React.
 
+_Never stop learning_
+
 **I love working with:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/angularjs/angularjs-original.svg" alt='Angular'></code>
