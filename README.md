@@ -10,10 +10,10 @@ _Never stop learning_
 
 **Actually working with:** 
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt='JavaScript'>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt='Firebase'>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt='git'>
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt='React'>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt='JavaScript'></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt='Firebase'></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt='git'></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt='React'></code>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
