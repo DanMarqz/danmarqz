@@ -15,11 +15,6 @@ _Never stop learning_
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt='git'></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt='React'></code>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danmarqz&show_icons=true&include_all_commits=true&theme=dracula" alt="DanMarqz's github stats" />
-</a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danmarqz&layout=compact&theme=dracula" />
 </a>
