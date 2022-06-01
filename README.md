@@ -19,7 +19,6 @@ My expectation is to be able to grow and develop professionally in the world of 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain.svg" alt='Firebase'></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt='git'></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt='React'></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/python.svg" alt='Python'></code>
 
 <!--
 **DanMarqz/danmarqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
